@@ -37,3 +37,6 @@ config.status
 config.sub
 depcomp
 stamp-h1
+
+rufus.VC.db
+rufus (Clang).VC.db
